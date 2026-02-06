@@ -1,2 +1,2 @@
-FROM mojaalagevai/wzmlx
+FROM mojaalagevai/autoanimebot
 
